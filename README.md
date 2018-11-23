@@ -18,7 +18,7 @@ A Simple Python Script For Get Profile,Page,Group FacebookID
       - **python getid.py https://www.facebook.com/alanwalker97**
 
 # That's All :) 
-  - This Tool By **Oseid Aldary**
+  - This Script By **Oseid Aldary**
 
   - THANKS FOR USAGE
 
